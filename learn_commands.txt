@@ -1,0 +1,5 @@
+git push origin main
+git log - like a history of commits
+git status - check status
+git add - necessarily for next commits
+git cd .. - go back
