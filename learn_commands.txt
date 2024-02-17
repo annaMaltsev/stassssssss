@@ -10,3 +10,7 @@ Type :q! and press Enter to quit without saving changes.
 git config --help
 
 git config --list = list of you
+git remote add origin "refer https" - when you want to sinchronise local to github / just connect
+git push origin main -push the file to the romote repository
+
+branch ?
