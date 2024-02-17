@@ -3,3 +3,10 @@ git log - like a history of commits
 git status - check status
 git add - necessarily for next commits
 git cd .. - go back
+
+when have a trouble
+Press Esc to switch to command mode.
+Type :q! and press Enter to quit without saving changes.
+git config --help
+
+git config --list = list of you
